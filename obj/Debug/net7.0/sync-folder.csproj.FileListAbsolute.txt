@@ -1,0 +1,17 @@
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\sync-folder.GeneratedMSBuildEditorConfig.editorconfig
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\sync-folder.AssemblyInfoInputs.cache
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\sync-folder.AssemblyInfo.cs
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\sync-folder.csproj.CoreCompileInputs.cache
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\sync-folder.genruntimeconfig.cache
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\bin\Debug\net7.0\sync_folder.exe
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\bin\Debug\net7.0\sync_folder.deps.json
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\bin\Debug\net7.0\sync_folder.runtimeconfig.json
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\bin\Debug\net7.0\sync_folder.dll
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\bin\Debug\net7.0\sync_folder.pdb
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\bin\Debug\net7.0\nunit.framework.dll
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\sync-folder.csproj.AssemblyReference.cache
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\sync-folder.csproj.CopyComplete
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\sync_folder.dll
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\refint\sync_folder.dll
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\sync_folder.pdb
+E:\[coding]\[C#-projects]\sync-folder\sync-folder\obj\Debug\net7.0\ref\sync_folder.dll
